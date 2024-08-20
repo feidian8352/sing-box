@@ -132,7 +132,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-b
 <br>
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh) \
+bash <(wget -qO- https://raw.githubusercontent.com/feidian8352/sing-box/main/sing-box.sh) \
   --LANGUAGE c \
   --CHOOSE_PROTOCOLS a \
   --START_PORT 8881 \
