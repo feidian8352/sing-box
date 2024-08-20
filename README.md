@@ -122,7 +122,7 @@ sb
 ## 4.无交互极速安装:
 ### 方式1. KV 配置文件，内容参照本库里的 config
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/sing-box/main/sing-box.sh) -f config
+bash <(wget -qO- https://raw.githubusercontent.com/feidian8352/sing-box/main/sing-box.sh) -f config
 ```
 
 ### 方式2. KV 传参，举例
